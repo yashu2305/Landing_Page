@@ -1,4 +1,4 @@
-# Animated Landing Page
+# Landing_Page
 
 A modern, responsive landing page built with React and Vite, featuring smooth CSS animations and a clean design.
 
@@ -23,12 +23,12 @@ A modern, responsive landing page built with React and Vite, featuring smooth CS
 
 1. Clone the repository
    ```bash
-   git clone https://github.com/yourusername/animated-landing-page.git
+   git clone https://github.com/yashu2305/Landing_Page.git
    ```
 
 2. Navigate to the project directory
    ```bash
-   cd animated-landing-page
+   cd Landing_Page
    ```
 
 3. Install dependencies
